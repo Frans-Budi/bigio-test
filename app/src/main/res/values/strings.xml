@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bigio</string>
+    <string name="menu_character">Characters</string>
+    <string name="menu_episode">Episodes</string>
+    <string name="menu_location">Locations</string>
+    <string name="menu_setting">Settings</string>
+    <string name="character_list">Character List</string>
+    <string name="favorite_list">Favorite List</string>
+    <string name="episode_list">Episode List</string>
+    <string name="location_list">Location List</string>
+    <string name="information">Information</string>
+    <string name="name">Name</string>
+    <string name="species">Species</string>
+    <string name="gender">Gender</string>
+    <string name="location">Location</string>
+    <string name="origin">Origin</string>
+    <string name="episodes">Episodes</string>
+    <string name="air_date">Air Date</string>
+    <string name="characters">Characters</string>
+    <string name="character_detail">Character Detail</string>
+    <string name="episode_detail">Episode Detail</string>
+    <string name="location_detail">Location Detail</string>
+    <string name="dimension">Dimension</string>
+    <string name="type">Type</string>
+    <string name="search_character">Search Character</string>
+</resources>
